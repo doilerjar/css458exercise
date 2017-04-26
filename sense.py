@@ -1,0 +1,3 @@
+def sense():
+
+    return direction
